@@ -7,7 +7,6 @@ public class Principal {
         int x; // Variable 1 para suma de numeros
         int y; // Variable 2 para suma de numeros
         int z; // Resultado de la suma de la variable 1 y 2
-        Persona p1;
 
         Persona p = new Persona();
         Persona p2 = new Persona(18, 100, "Angel");
